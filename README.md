@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and explo
 ## 📫 How to Reach Me
 - **Email**: [zakheerali@gmail.com](mailto:zakheerali@gmail.com)
 - **LinkedIn**: [Zakheer Ali](https://www.linkedin.com/in/zakheer-ali-57a8a1335/)
+- **My Portfolio**: [Portfolio](https://my-portfolio--lovat.vercel.app/)
 
 ## 🌟 Fun Facts About Me
 - I love exploring the depths of **AI** and its impact on the future.
