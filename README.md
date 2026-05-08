@@ -18,6 +18,10 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and explo
 - **Tools & Platforms**: Git, Docker, VSCode, AWS
 
 ## 🏫 Education
+- **BS-COMPUTER_SCIENCE**
+   Benazir Bhutto Shaheed University : [2026]
+- **GIAIC (Governer Initiative Of Artificial Intelligence & Computing)**
+   Agentic AI ,Web Development , Advance Prompt and Context Engineering ,Advance Python and Open AI Agent sdk  
 - **Intermediate (Pre-Engineering)**  
   SM Science College, Year: [2024]
 
