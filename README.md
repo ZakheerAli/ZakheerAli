@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and explo
 
 ## 🏫 Education
 - **BS-COMPUTER_SCIENCE**
-   Benazir Bhutto Shaheed University : [2026]
+- Benazir Bhutto Shaheed University : [2026]
 - **GIAIC (Governer Initiative Of Artificial Intelligence & Computing)**
-   Agentic AI ,Web Development , Advance Prompt and Context Engineering ,Advance Python and Open AI Agent sdk  
+-  Agentic AI ,Web Development , Advance Prompt and Context Engineering ,Advance Python and Open AI Agent sdk : [2024-2026]
 - **Intermediate (Pre-Engineering)**  
   SM Science College, Year: [2024]
 
