@@ -20,7 +20,7 @@
 
 ## 🧭 About Me
 
-I design and ship end-to-end AI applications — from LLM-powered agent pipelines to full-stack web platforms. My focus is **Agentic AI**: Retrieval-Augmented Generation (RAG), multi-agent orchestration with the **OpenAI Agent SDK**, and vector-search-driven systems, paired with solid **Next.js / FastAPI** full-stack fundamentals. Currently completing a BS in Computer Science while independently building, documenting, and deploying AI projects.
+I design and ship end-to-end AI applications — from LLM-powered agent pipelines to full-stack web platforms. My focus is **Agentic AI**: Retrieval-Augmented Generation (RAG), multi-agent orchestration with the **OpenAI Agent SDK**, and vector-search-driven systems, paired with solid **Next.js / FastAPI** full-stack fundamentals. I build with an **AI-assisted development workflow** — using **Claude Code** and **Antigravity** alongside **Spec-Driven Development** to design, implement, and ship faster without cutting corners on code quality. Currently completing a BS in Computer Science while independently building, documenting, and deploying AI projects.
 
 <br/>
 
@@ -67,9 +67,25 @@ A documentation platform for Physical AI and Humanoid Robotics with a RAG semant
 
 <br/>
 
+## 🤖 AI-Assisted Development Toolkit
+
+<div align="center">
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/-Antigravity-0E5C5C?style=for-the-badge)
+![Spec-Driven Development](https://img.shields.io/badge/-Spec--Driven%20Development-1B3A5C?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20%26%20Context%20Engineering-1B3A5C?style=for-the-badge)
+
+I build with AI pair-programming as a core part of my workflow — not just prompting for snippets, but using **Claude Code** and **Antigravity** for spec-first planning, multi-file implementation, and iterative refinement across full projects.
+
+</div>
+
+<br/>
+
 ## 🌱 Currently
 
 - 🔭 Building Agentic AI systems with the OpenAI Agent SDK — prompt & context engineering, multi-agent orchestration, RAG pipelines
+- 🤖 Using **Claude Code** and **Antigravity** for AI-assisted, spec-driven full-stack development
 - 💻 Strengthening full-stack fundamentals with Next.js, FastAPI, and PostgreSQL
 - 🎓 Completing a **BS in Computer Science** at Benazir Bhutto Shaheed University (expected 2029)
 - 📚 Enrolled in the **Full-Stack AI Development Program**, GIAIC, 2024–Present — Agentic AI Engineering, Python, Full-Stack Development, Next.js, Prompt & Context Engineering, OpenAI Agent SDK, Claude Code, Spec-Driven Development
