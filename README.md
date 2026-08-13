@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E5C5C,100:1B3A5C&height=220&section=header&text=Zakheer%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E5C5C,100:1B3A5C&height=220&section=header&text=Zakheer%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=20" width="100%" />
 
 <a href="https://www.linkedin.com/in/zakheer-ali-57a8a1335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:zakheerali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://my-portfolio--lovat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E5C5C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=0E5C5C&center=true&vCenter=true&multiline=true&width=780&height=90&lines=Building+Agentic+AI+systems+with+RAG;Multi-agent+orchestration+with+the+OpenAI+Agent+SDK;Full-Stack+dev+%E2%80%94+Next.js+%2B+FastAPI+%2B+PostgreSQL;Currently+pursuing+BS+Computer+Science" />
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0E5C5C&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+systems+with+RAG+%2B+multi-agent+pipelines;Full-Stack+developer+%E2%80%94+Next.js+%2F+FastAPI+%2F+PostgreSQL;Currently+completing+BS+Computer+Science" />
+<img src="https://komarev.com/ghpvc/?username=zakheerali&label=Profile%20Views&color=0e5c5c&style=flat" />
 
 </div>
 
@@ -49,34 +53,14 @@ A documentation platform for Physical AI and Humanoid Robotics with a RAG semant
 
 <div align="center">
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,nextjs,react,tailwind,fastapi,postgres,git,github,vercel,gcp&theme=dark" />
 
-**AI / ML**
-<br/>
+<br/><br/>
+
 ![OpenAI](https://img.shields.io/badge/-OpenAI%20Agent%20SDK-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-0E5C5C?style=flat-square)
 ![Vector Embeddings](https://img.shields.io/badge/-Vector%20Embeddings-0E5C5C?style=flat-square)
-
-**Full-Stack**
-<br/>
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud & Tools**
-<br/>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/-Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)
 
 </div>
@@ -115,9 +99,23 @@ A documentation platform for Physical AI and Humanoid Robotics with a RAG semant
 
 <br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakheerali&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=zakheerali&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/zakheerali/zakheerali/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</div>
+
+> This animated graph needs a one-time setup — see the note at the bottom on how to activate it for your profile.
 
 <br/>
 
@@ -134,3 +132,12 @@ A documentation platform for Physical AI and Humanoid Robotics with a RAG semant
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,100:0E5C5C&height=100&section=footer" width="100%" />
+
+<!--
+SETUP NOTE — Contribution Snake:
+The animated snake above needs a GitHub Action to generate the SVG from your real contribution graph.
+1. In your zakheerali/zakheerali repo, create .github/workflows/snake.yml
+2. Use the official action: https://github.com/Platane/snk
+3. Once it runs once, the snake SVG above will animate with your real contributions.
+If you'd rather skip this, just delete the "Contribution Snake" section — everything else works with zero setup.
+-->
