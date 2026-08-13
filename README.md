@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E5C5C,100:1B3A5C&height=220&section=header&text=Zakheer%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=20" width="100%" />
 
-<a href="https://www.linkedin.com/in/zakheer-ali-57a8a1335/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
-<a href="mailto:zakheerali@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://my-portfolio--lovat.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E5C5C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/zakheer-ali-57a8a1335/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:zakheerali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://my-portfolio--lovat.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0E5C5C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
