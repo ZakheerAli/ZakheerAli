@@ -96,7 +96,7 @@ I build with AI pair-programming as a core part of my workflow — not just prom
 
 | Program | Institution | Timeline |
 |---|---|---|
-| BS, Computer Science (In Progress) | Benazir Bhutto Shaheed University, Karachi | Expected 2029 |
+| BS, Computer Science (In Progress) | Benazir Bhutto Shaheed University, Karachi | In progress |
 | Intermediate (Pre-Engineering) | SM Science College, Karachi | 2022 – 2024 |
 | Matriculation | Madressa-e-Islamia Sec School No. 2, Kharadar, Karachi | 2020 – 2022 |
 
